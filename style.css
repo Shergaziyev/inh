@@ -1,0 +1,211 @@
+body{
+    margin: 0;
+}
+.back2{
+    background-image: url(./images/jay.jpg);
+    background-size: cover;
+    color: white;
+
+}
+.back2 a {
+    color: white;
+    
+}
+.text{
+    margin-top: 500px;
+    color: white;
+}
+.text h1{
+    color: rgb(255, 253, 253);
+    text-align: center;
+    font-size: 40px;
+}
+.back2 ul li {
+    float: right;
+    padding-left: 30px;
+    
+}
+.back2 ul {
+    list-style: none;
+}
+.lolo {
+    background-color: 2C4180;
+    margin-top: -30px;
+    font-size: -90px;
+}
+.lolo table tr td{
+    padding-right: 500px;
+}
+.lolo table tr td p {
+    color: white;
+    background-color: blue;
+}
+.kal {
+    width: 100px;
+}
+.kal {
+    margin-top: -3px;
+}
+
+.kal img {
+    margin-left: -5px;
+padding-left: 100px;
+}
+.para {
+    font-size: 20px;
+}
+.para img {
+    margin-top: 20px;
+    padding-right: 190px;
+    padding-left: 150px;
+}
+.para p {
+    font-size: 30px;
+    padding-right: 190px;
+    padding-left: 150px;
+}
+.stat {
+    font-size: 40px;
+    padding-left: 550px;
+    background-color: rgb(23, 23, 77);
+    color: rgb(219, 171, 14);
+}
+.lll {
+    padding-left: 10px;
+    font-size:30px;
+}
+.po {
+    background-color: rgb(23, 23, 77);
+    text-align: center;
+color: rgb(219, 171, 14);
+font-size: 30px;
+}
+.ju table {
+    width: 40%;
+    text-align: right;
+    padding-left: 500px;
+}
+.kmnj {
+padding-left: 400px;
+}
+.kmnj p {
+    padding-left:120px;
+    margin-top: -90px;
+    font-size: 20px;
+}
+.kmnj table tr td {
+    padding-left: 180px;
+}
+.kmnj table  {
+    margin-top: -50px;
+}
+.hdu h2{
+    color: blue;
+}
+.forvid{
+    margin-right: 100px;
+    border: 1px solid blue;
+}
+.forvidd{
+    padding-left: 500px;
+    border: 1px solid blue;
+}
+.grdd{
+    display: grid;
+    grid-template-columns: 10% 90%;
+}
+.kmnj{
+    margin-top: 50px;
+}
+
+.bagu {
+    background-image: url(./images/asdf.jpg);
+    height: 600px;
+    background-size: cover;
+    padding-left: 350px;
+    color: rgb(36, 16, 150);
+}
+.baguu h2 {
+    text-align: center;
+font-size: 45px;
+margin-top:200px;
+}
+.baguu p {
+    font-size: 20px;
+}
+.bagutext table {
+    background-color: darkgoldenrod;
+
+}
+.bagutext {
+    padding-left: 290px;
+}
+.bnm {
+    background-color: #181818;
+    color: white;
+    font-size: 30px;
+    padding-left: 60px;
+}
+.bnm table tr td  p {
+    font-size: 30px;
+}
+.hdu {
+    padding-left: 40px;
+   
+}
+.kasha {
+    padding-left: 700px;
+    margin-top: -440px;
+    color: white;
+    font-size: 20px;
+}
+.kais {
+    padding-left: 1180px;
+    margin-top: -545px;
+    color: white;
+    font-size: 30px;
+}
+.tok {
+    padding-left: 400px;
+}
+.out {
+    padding-left: 400px;
+    color: blue;
+}
+.jeki {
+    background-color: #2C4180;
+    color: white;
+    font-size: 25px;
+}
+.jeki p {
+    padding-left: 150px;
+    margin-top: -70px;
+    font-size: 32px;
+}
+.jeki img{
+    margin-top: 40px;
+    padding-left: 60px;
+}
+.jekii {
+    margin-top: -90px;
+    padding-left: 600px;
+}
+.jekii p {
+    margin-top: -72px;
+    padding-left: 105px;
+    color: white;
+    font-size: 32px;
+}
+.jekii img {
+    margin-top: -11px;
+}
+.jekiii {
+    margin-top: -108px;
+    padding-left: 1200px;
+}
+.jekiii p {
+    margin-top: -70px;
+    padding-left: 90px;
+    font-size: 32px;
+    color: white;
+}
